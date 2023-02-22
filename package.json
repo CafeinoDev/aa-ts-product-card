@@ -3,6 +3,11 @@
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
+  "homepage": "https://andyalvarado.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CafeinoDev/aa-ts-product-card"
+  },
   "files": [
     "dist",
     "src"
@@ -38,6 +43,7 @@
   },
   "name": "aa-ts-product-card",
   "author": "Andy Alvarado",
+
   "module": "dist/aa-ts-product-card.esm.js",
   "size-limit": [
     {
