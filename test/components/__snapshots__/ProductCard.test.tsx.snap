@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductImage Must increase the counter 1`] = `
+<div
+  className="productCard undefined"
+>
+  <h1>
+    Product Card
+  </h1>
+  <span>
+    0
+  </span>
+  <button
+    onClick={[Function]}
+  >
+    +1
+  </button>
+</div>
+`;
+
+exports[`ProductImage Must show the custom component 1`] = `
+<div
+  className="productCard undefined"
+>
+  <h1>
+    Test test
+  </h1>
+</div>
+`;
